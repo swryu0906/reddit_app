@@ -4,9 +4,11 @@ ruby '2.2.3'
 # install devise gem for user authentication
 gem 'devise', '~> 3.5', '>= 3.5.2'
 
-# install bootstrap
+# install bootstrap-sass gem
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 
+# install acts_as_votable gem
+gem 'acts_as_votable', '~> 0.10.0'
 
 gem 'rails', '4.2.4'
 gem 'pg'
