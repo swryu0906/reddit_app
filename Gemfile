@@ -10,6 +10,9 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 # install acts_as_votable gem
 gem 'acts_as_votable', '~> 0.10.0'
 
+# install simple_form 
+gem 'simple_form', '~> 3.2'
+
 gem 'rails', '4.2.4'
 gem 'pg'
 gem 'sass-rails', '~> 5.0'
