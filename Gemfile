@@ -1,8 +1,12 @@
 source 'https://rubygems.org'
 ruby '2.2.3'
 
-# Install devise gem for user authentication
+# install devise gem for user authentication
 gem 'devise', '~> 3.5', '>= 3.5.2'
+
+# install bootstrap
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
+
 
 gem 'rails', '4.2.4'
 gem 'pg'
